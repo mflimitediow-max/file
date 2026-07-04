@@ -1,0 +1,9 @@
+{
+  "name": "agency-os-leadgen",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "find-leads": "node scripts/find-leads.mjs"
+  }
+}
